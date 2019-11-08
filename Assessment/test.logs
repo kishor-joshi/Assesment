@@ -1,0 +1,308 @@
+2019-11-05 19:09:24 INFO  BaseClass:56 - IE browser launched
+2019-11-05 19:09:25 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:09:27 INFO  BaseClass:44 - chrome browser launched
+2019-11-05 19:09:31 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:09:34 INFO  BaseClass:50 - firefox browser launched
+2019-11-05 19:09:35 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:11:23 INFO  BaseClass:56 - IE browser launched
+2019-11-05 19:11:24 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:11:27 INFO  BaseClass:44 - chrome browser launched
+2019-11-05 19:11:28 INFO  BaseClass:83 - opened URL is currect
+2019-11-05 19:11:32 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:11:33 INFO  BaseClass:50 - firefox browser launched
+2019-11-05 19:11:34 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-05 19:11:44 INFO  BaseClass:83 - opened URL is currect
+2019-11-06 17:35:39 INFO  BaseClass:44 - chrome browser launched
+2019-11-06 17:35:44 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-06 17:35:51 INFO  BaseClass:83 - opened URL is currect
+2019-11-06 17:37:14 INFO  BaseClass:44 - chrome browser launched
+2019-11-06 17:37:18 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-06 17:37:26 INFO  BaseClass:83 - opened URL is currect
+2019-11-06 17:39:59 INFO  BaseClass:44 - chrome browser launched
+2019-11-06 17:40:06 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-06 17:40:15 INFO  BaseClass:83 - opened URL is currect
+2019-11-07 11:13:28 INFO  BaseClass:44 - chrome browser launched
+2019-11-07 11:13:33 INFO  BaseClass:79 - URL is loading http://www.atmecs.com/
+2019-11-07 11:18:04 INFO  BaseClass:45 - chrome browser launched
+2019-11-07 11:18:09 INFO  BaseClass:80 - URL is loading http://www.atmecs.com/
+2019-11-07 11:18:16 INFO  BaseClass:84 - opened URL is currect
+2019-11-07 17:55:42 INFO  BaseClass:45 - chrome browser launched
+2019-11-07 17:55:48 INFO  BaseClass:80 - URL is loading http://www.atmecs.com/
+2019-11-07 17:55:57 INFO  BaseClass:84 - opened URL is currect
+2019-11-07 17:58:26 INFO  BaseClass:45 - chrome browser launched
+2019-11-07 17:58:31 INFO  BaseClass:80 - URL is loading http://www.atmecs.com/
+2019-11-07 17:58:39 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 10:46:51 INFO  BaseClass:57 - IE browser launched
+2019-11-08 10:46:52 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 10:46:53 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:01:11 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:01:12 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:01:13 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:02:01 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:02:02 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:02:03 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:03:00 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:03:01 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:03:02 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:05:51 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:05:52 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:05:53 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:06:53 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:06:54 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:06:55 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:10:19 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:10:20 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:10:22 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:11:48 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:11:49 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:11:50 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:14:07 INFO  BaseClass:57 - IE browser launched
+2019-11-08 11:14:08 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:14:09 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:14:49 INFO  BaseClass:45 - chrome browser launched
+2019-11-08 11:14:55 INFO  BaseClass:80 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:14:58 INFO  BaseClass:84 - opened URL is currect
+2019-11-08 11:16:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:16:06 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:16:09 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:24:27 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:24:33 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:24:36 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:34:30 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:34:36 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:34:39 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:35:42 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:35:47 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:35:50 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:36:32 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:36:37 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:36:40 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 11:37:31 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 11:37:37 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 11:37:40 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:00:17 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:00:23 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:00:26 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:03:35 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:03:41 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:03:44 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:05:46 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:05:51 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:05:55 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:14:26 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:14:32 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:14:35 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:16:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:16:38 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:16:42 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:26:44 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:26:49 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:26:52 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:28:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:28:34 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:28:37 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:31:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:31:35 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:31:38 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:33:31 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:33:36 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:33:40 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:35:24 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:35:30 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:35:33 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:38:11 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:38:17 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:38:21 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:43:12 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:43:17 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:43:21 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:47:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:47:07 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:47:10 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:47:51 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:47:56 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:47:59 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 12:50:06 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 12:50:11 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 12:50:14 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:08:39 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:08:46 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:08:50 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:10:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:10:36 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:10:42 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:13:41 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:13:46 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:13:49 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:15:14 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:15:20 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:15:23 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:17:37 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:17:42 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:17:45 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:20:29 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:20:35 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:20:38 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:21:24 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:21:30 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:21:33 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:23:13 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:23:19 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:23:22 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:29:34 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:29:39 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:29:43 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:37:13 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:37:18 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:37:22 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:43:00 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:43:05 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:43:08 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:43:25 INFO  BaseClass:59 - product addrd to the cart is correct iPhone
+2019-11-08 13:47:26 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:47:31 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:47:34 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:47:51 INFO  BaseClass:62 - product addrd to the cart is correct iPhone
+2019-11-08 13:53:19 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:53:24 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:53:28 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:53:44 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 13:53:44 INFO  BaseClass:62 - total price in the cart is correct $246.40
+2019-11-08 13:54:22 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:54:27 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:54:30 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:54:46 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 13:54:46 INFO  BaseClass:62 - total price in the cart is correct $246.40
+2019-11-08 13:54:47 INFO  BaseClass:79 - product addrd to the cart is correct iPhone
+2019-11-08 13:54:47 INFO  BaseClass:81 - total price in the cart is correct $246.40
+2019-11-08 13:56:11 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:56:16 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:56:19 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:56:36 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 13:56:36 INFO  BaseClass:62 - total price in the cart is correct $246.40
+2019-11-08 13:56:36 INFO  BaseClass:79 - product addrd to the cart is correct iPhone
+2019-11-08 13:56:36 INFO  BaseClass:81 - total price in the cart is correct $246.40
+2019-11-08 13:57:48 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:57:53 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:57:57 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 13:58:14 INFO  BaseClass:60 - product addrd to the cart is correct iPhone
+2019-11-08 13:59:28 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 13:59:34 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 13:59:37 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:00:16 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:00:21 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:00:24 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:00:42 INFO  BaseClass:62 - product addrd to the cart is correct iPhone
+2019-11-08 14:03:02 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:03:07 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:03:11 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:04:00 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:04:05 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:04:08 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:04:52 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:04:57 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:05:00 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:05:11 INFO  BaseClass:49 - product addrd to the cart is correct iPhone
+2019-11-08 14:09:59 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:10:05 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:10:08 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:10:39 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:10:45 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:10:49 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:10:59 INFO  BaseClass:45 - product addrd to the cart is correct iPhone
+2019-11-08 14:10:59 INFO  BaseClass:49 - total price in the cart is correct $246.40
+2019-11-08 14:11:00 INFO  BaseClass:66 - product addrd to the cart is correct iPhone
+2019-11-08 14:12:07 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:12:12 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:12:16 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:12:27 INFO  BaseClass:45 - product addrd to the cart is correct iPhone
+2019-11-08 14:12:27 INFO  BaseClass:49 - total price in the cart is correct $246.40
+2019-11-08 14:12:28 INFO  BaseClass:68 - product addrd to the cart is correct iPhone
+2019-11-08 14:13:25 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:13:30 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:13:33 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:14:01 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:14:06 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:14:09 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:15:16 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:15:21 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:15:24 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:16:58 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:17:03 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:17:06 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:18:05 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:18:11 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:18:14 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:19:46 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:19:51 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:19:54 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:20:55 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:21:00 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:21:04 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:21:16 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 14:21:16 INFO  BaseClass:58 - total price in the cart is correct $246.40
+2019-11-08 14:21:16 INFO  BaseClass:78 - product addrd to the cart is correct iPhone
+2019-11-08 14:22:49 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:22:54 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:22:57 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:23:08 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 14:23:08 INFO  BaseClass:58 - total price in the cart is correct $246.40
+2019-11-08 14:23:08 INFO  BaseClass:78 - product addrd to the cart is correct iPhone
+2019-11-08 14:25:02 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:25:07 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:25:11 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:25:38 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:25:43 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:25:47 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:25:57 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 14:25:57 INFO  BaseClass:58 - total price in the cart is correct $246.40
+2019-11-08 14:25:57 INFO  BaseClass:78 - product addrd to the cart is correct iPhone
+2019-11-08 14:28:08 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:28:13 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:28:16 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:28:41 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:28:47 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:28:50 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:29:03 INFO  BaseClass:54 - product addrd to the cart is correct iPhone
+2019-11-08 14:29:03 INFO  BaseClass:58 - total price in the cart is correct $246.40
+2019-11-08 14:29:03 INFO  BaseClass:78 - product addrd to the cart is correct iPhone
+2019-11-08 14:29:03 INFO  BaseClass:80 - total price in the cart is correct $246.40
+2019-11-08 14:30:44 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:30:50 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:30:53 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:31:21 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:31:26 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:31:30 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:32:09 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:32:14 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:32:18 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:32:29 INFO  BaseClass:52 - product addrd to the cart is correct iPhone
+2019-11-08 14:32:29 INFO  BaseClass:54 - total price in the cart is correct $246.40
+2019-11-08 14:32:29 INFO  BaseClass:60 - product addrd to the cart is correct MacBook Air
+2019-11-08 14:33:47 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:33:52 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:33:55 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:34:06 INFO  BaseClass:52 - product addrd to the cart is correct iPhone
+2019-11-08 14:34:06 INFO  BaseClass:54 - total price in the cart is correct $246.40
+2019-11-08 14:34:06 INFO  BaseClass:60 - product addrd to the cart is correct MacBook Air
+2019-11-08 14:35:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:35:38 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:35:41 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:36:12 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:36:17 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:36:20 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:36:50 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:36:56 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:36:59 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:37:33 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:37:39 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:37:42 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:41:24 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:41:29 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:41:33 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:41:56 INFO  BaseClass:30 - macBook Air product added to the cart
+2019-11-08 14:42:20 INFO  BaseClass:47 - chrome browser launched
+2019-11-08 14:42:25 INFO  BaseClass:82 - URL is loading http://tutorialsninja.com/demo/
+2019-11-08 14:42:28 INFO  BaseClass:86 - opened URL is currect
+2019-11-08 14:42:34 INFO  BaseClass:30 - iPhone product added to the cart
+2019-11-08 14:42:37 INFO  BaseClass:30 - macBook Air product added to the cart
